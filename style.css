@@ -12,7 +12,7 @@ body{
 .column{
     background-color: hsl(0, 0%, 12%);
     border-radius: 20px;
-    width: 18%;
+    width: 22%;
     justify-content: center;
     align-items: center;
     display: flex;
